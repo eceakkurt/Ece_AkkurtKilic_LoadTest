@@ -31,3 +31,6 @@ jmeter -n -t test-plan.jmx -l results.jtl -e -o report-folder
 
 ## 📞 İletişim
 Herhangi bir soru için benimle iletişime geçebilirsiniz!
+
+## Sonuçlar
+![image](https://github.com/user-attachments/assets/bf451509-52f5-4544-bba8-7ee6cda6eccb)
