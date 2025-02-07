@@ -29,20 +29,5 @@ JMeter, test sonuçlarını **HTML, CSV, ve XML** formatlarında raporlayabilir.
 jmeter -n -t test-plan.jmx -l results.jtl -e -o report-folder
 ```
 
-## 📂 Dizin Yapısı
-```
-📦 Ece_AkkurtKilic_LoadTest
- ┣ 📂 test-plans
- ┃ ┣ 📜 web-test.jmx
- ┃ ┣ 📜 api-test.jmx
- ┃ ┗ 📜 mobile-test.jmx
- ┣ 📂 results
- ┃ ┗ 📜 test-results.jtl
- ┣ 📂 reports
- ┃ ┗ 📜 index.html
- ┣ 📜 README.md
- ┗ 📜 .gitignore
-```
-
 ## 📞 İletişim
 Herhangi bir soru için benimle iletişime geçebilirsiniz!
